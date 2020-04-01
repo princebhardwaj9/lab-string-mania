@@ -1,5 +1,15 @@
 package utility;
 
+/*
+Go to StringMethod class and create the following methods.
+Write a method to convert the String to lowercase.
+Write a method to convert the String to uppercase.
+Write a method to find the first character in the string.
+Write a method to return string length.
+Write a method to trim the input string.
+All the methods should return the value as string.
+*/
+
 public class StringMethod {
 	private String input;
 
